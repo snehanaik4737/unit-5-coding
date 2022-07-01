@@ -1,0 +1,17 @@
+.maindiv{
+    width:30%;
+    margin:auto;
+    padding:1rem;
+   border-bottom: 1px solid gray;
+   border-bottom-left-radius: 1rem;
+   border-bottom-right-radius: 1rem;
+    gap:1rem;
+}
+.image{
+    width:10%;
+    padding:2%;
+}
+.subdiv{
+    display:flex;
+    width:100%;
+}
