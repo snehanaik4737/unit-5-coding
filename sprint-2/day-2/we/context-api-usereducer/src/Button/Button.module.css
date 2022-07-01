@@ -1,0 +1,12 @@
+.buttonBase{
+    padding:25px
+}
+.buttonLight{
+background-color: gray;
+color:black
+}
+
+.buttonDark{
+    background-color: black;
+color:white
+}
