@@ -1,0 +1,26 @@
+
+
+
+.Footer{
+    /* position: fixed; */
+    bottom: 0px;
+     /* margin-top: 10px; */
+    display: flex;
+    padding: 5px;
+    width: 100%;
+    
+}
+.Footer div{
+flex: 1;
+
+text-align: center;
+}
+.footerText, .footerLink{
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+}
+.Footer a{
+    margin: 5px 10px;
+    font-size: 1.5em;
+}

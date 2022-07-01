@@ -1,0 +1,66 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "company_name": "LinkedIn"
+    },
+    {
+      "id": 2,
+      "company_name": "Masai School"
+    },
+    {
+      "id": 3,
+      "company_name": "Flipkart"
+    },
+    {
+      "company_name": "myntra",
+      "id": 4
+    },
+    {
+      "company_name": "gearbest",
+      "id": 5
+    },
+    {
+      "company_name": "fashion",
+      "id": 6
+    },
+    {
+      "company_name": "AMAZON",
+      "id": 7
+    },
+    {
+      "company_name": "mamaearth",
+      "id": 8
+    },
+    {
+      "company_name": "gear",
+      "id": 9
+    }
+  ],
+  "employee": [
+    {
+      "id": 6,
+      "employee_name": "Sneha",
+      "company_name": "Masai School",
+      "ctc": 50000
+    },
+    {
+      "id": 7,
+      "employee_name": "Diya",
+      "company_name": "myntra",
+      "ctc": 52000
+    },
+    {
+      "employee_name": "albert",
+      "company_name": "masai",
+      "ctc": "20000",
+      "id": 8
+    },
+    {
+      "employee_name": "albert",
+      "company_name": "masai",
+      "ctc": "20000",
+      "id": 9
+    }
+  ]
+}
